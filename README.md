@@ -83,8 +83,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanmukha5269&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 <p align="center"><i>⭐️ Feel free to check out my repositories and reach out if you'd like to collaborate ⭐️</i></p>
